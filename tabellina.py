@@ -1,0 +1,4 @@
+#tabellina del 4
+#range
+for i in range(4, 41, 4):
+    print(i)
